@@ -1,6 +1,6 @@
 ; This file is an example of the possible .info file keys, but
 ; we will start with a simpler .info file in the next steps.
-
+; testing repo
 name = BAT (Build a Theme)
 description = Example theme for Drupal 7
 core = 7.x
@@ -40,7 +40,7 @@ features[] = main_menu
 features[] = secondary_menu
 
 settings[basic_tabs] = 1
-settings[basic_breadcrumb_separator] = È
+settings[basic_breadcrumb_separator] = ï¿½
 settings[wireframe_mode] = 0
 settings[clear_registry] = 0
 
